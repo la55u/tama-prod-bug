@@ -11,7 +11,7 @@ Styles are sometimes different in dev and prod
 3.  run `yarn web`
 4.  open localhost:3000 and confirm the circle is positined inside the image, centered on both axis
 5.  kill the console
-6.  run yarn `build:web && yarn start:web`
+6.  run `yarn build:web && yarn start:web`
 7.  refresh the browser and see that the circle is below the image
 
 ## Possible solutions
